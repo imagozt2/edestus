@@ -1,0 +1,129 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <edestusimg>Edestus</edestusimg>
+      <edestusimg_stt>Edestus</edestusimg_stt>
+      <edestusimg_lower>the Edestus</edestusimg_lower>
+      <edestusimg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Edestus</b>
+         </color>
+         <br/>
+         Click to place a Edestus.
+      </edestusimg_ltt>
+      <!--gift names-->
+      <edestusimg_Gift>Edestus</edestusimg_Gift>
+      <edestusimg_Gift_stt>Edestus</edestusimg_Gift_stt>
+      <edestusimg_Gift_lower>the Edestus</edestusimg_Gift_lower>
+      <edestusimg_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Edestus</b>
+         </color>
+         <br/>.
+      </edestusimg_Gift_ltt>
+</entityname>
+<zoopedia_edestusimg>
+ <entry>Edestus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/edestusimg/edestusimg_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status: 
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Oceanic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Temperate Oceans<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous fish <i>(Chondricthyes)</i><br/>Order: Sharks <i>(Eugenodontiformes)</i><br/>Family: <i>Edestidae</i><br/>Genus: <i>Edestus</i><br/>Species: <i>E. giganteus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Edestus Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is said that this species could reach up to 10 meters.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">His teeth were like scissors.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Endured the Permian mass extinction.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Edestus in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo. 
+   </color>
+<p/>Edestus is an extinct genus of cartilaginous fish Eugeneodontiformes order. Arose in the Carboniferous oceans and survived the mass extinction of the Permian-Triassic, finally extinguished the Late Triassic, 250 million years ago. The only remains left of this shark are its scissor-like teeth, which were on both sides of the jaw .Helicoprion extinct relative of the well, using his teeth as the latter: the system was left to tear up the prey bleed and then devour it. Their diet consisted of fish and crustaceans regular size large.
+
+<p/>A miner found a fossilized shark's jaw in the center of the state of Kentucky and the rare piece is now on display at the University of Kentucky. The fossil was found in February in Webster County when Jay Wright, 25, a wall propped up to 210 meters underground. The mandible, black color and 300 million years old, apparently corresponds to a genus Edestus shark that ever lived in the sea on what is now Kentucky. The shark teeth Edestus was characterized by a scissor bite. In an interview Friday with the Lexington Herald Leader newspaper, Wright said his first thought was: iCaramba!, What is this?. Jerry Weisenfluh, associate director of the Geological Survey of Kentucky in Lexington, said that a fossil of this magnitude is rare. It is now displayed in the lobby of the Mines and Minerals campus of the University of Kentucky.
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from <color r="255" g="231" b="135">Wikipedia and other sites</color>Imago<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_edestusimg>
+</ZT2Strings>

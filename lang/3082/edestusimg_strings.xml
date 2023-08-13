@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <edestusimg>Edestus</edestusimg>
+      <edestusimg_stt>Edestus</edestusimg_stt>
+      <edestusimg_lower>El Edestus</edestusimg_lower>
+      <edestusimg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Edestus</b>
+         </color>
+         <br/>
+         Click para adoptar un Edestus, un tiburon primitivo.
+      </edestusimg_ltt>
+      <!--gift names-->
+      <edestusimg_Gift>Edestus</edestusimg_Gift>
+      <edestusimg_Gift_stt>Edestus</edestusimg_Gift_stt>
+      <edestusimg_Gift_lower>El Edestus</edestusimg_Gift_lower>
+      <edestusimg_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Edestus</b>
+         </color>
+         <br/>.
+      </edestusimg_Gift_ltt>
+</entityname>
+<zoopedia_edestusimg>
+ <entry>Edestus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/edestusimg/edestusimg_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extinguido
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Oceanos<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Oceanos de todo el mundo<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Peces cartilaginosos <i>(Chondricthyes)</i><br/>Orden: Tiburones<i>(Eugeneodontiformes)</i><br/>Familia: <i>(Edestidae)</i><br/>Genero: <i>Edestus</i><br/>Especie: <i>E. Giganteus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades del Edestus</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Se dice que esta especie podia llegar a medir 10 metros.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Su dentadura era como la de unas tijeras.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Soporto la extinción masiva del Permico.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el edestus en los modos campaña y desafio necesitaras consegir un nivel de fama de 3-estrellas en tu zoo. 
+   </color>
+<p/>Edestus es un género extinto de peces cartilaginosos del orden Eugeneodontiformes. Surgió en los océanos del Carbonífero Superior y sobrevivió a la extinción masiva del Pérmico-Triásico, extinguiéndose finalmente en el Triásico Superior, hace 250 millones de años. Los únicos restos que quedaron de este tiburón son sus dientes en forma de tijera, que se encontraban en ambas partes de la mandíbula.
+
+<p/>Pariente del también extinto Helicoprion, utilizaba su dentadura como el de este último: el sistema era desgarrar hasta dejar a la presa desangrada para después devorarla. Su alimentación consistía en peces de tamaño regular y crustáceos de tamaño grande.
+
+<p/>Un minero encontró una mandíbula fosilizada de tiburón en el centro del estado de Kentucky y la rara pieza es ahora exhibida en la Universidad de Kentucky. El fósil fue hallado en febrero en el condado de Webster cuando Jay Wright, de 25 años, apuntalaba un muro a 210 metros bajo tierra. La mandíbula, de color negro y con 300 millones de años de antigüedad, corresponde al parecer a un tiburón del género Edestus que alguna vez vivió en el mar sobre lo que ahora es Kentucky. El tiburón Edestus se caracterizaba por dientes en forma de tijera. En una entrevista el viernes con el diario The Lexington Herald Leader, Wright dijo que su primer pensamiento fue: íCaramba!, ¿qué cosa es esto?. Jerry Weisenfluh, director asociado del Centro Geológico de Kentucky en Lexington, dijo que un fósil de esa magnitud es raro. Ahora es mostrado en el vestíbulo del recinto Minas y Minerales de la Universidad de Kentucky.
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   informacion: <color r="255" g="231" b="135">wikipwdia y otros sitios</color> Imago <color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_edestusimg>
+</ZT2Strings>
